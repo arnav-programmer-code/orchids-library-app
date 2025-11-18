@@ -1,0 +1,9 @@
+{
+  "1": {
+    "book_id": "1",
+    "student": "student1",
+    "issue_date": "2025-06-07",
+    "due_date": "2025-06-14",
+    "fine": 0
+  }
+}

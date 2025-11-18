@@ -1,0 +1,16 @@
+{
+  "1": [
+    {
+      "user": "student1",
+      "rating": 5,
+      "comment": "Excellent book for beginners!"
+    }
+  ],
+  "2": [
+    {
+      "user": "student2",
+      "rating": 4,
+      "comment": "Very informative and well-structured."
+    }
+  ]
+}

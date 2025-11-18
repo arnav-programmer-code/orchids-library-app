@@ -1,0 +1,20 @@
+{
+  "1": {
+    "title": "Python Programming",
+    "author": "John Smith",
+    "isbn": "978-0123456789",
+    "available": false
+  },
+  "2": {
+    "title": "Data Science Basics",
+    "author": "Mary Johnson",
+    "isbn": "978-0987654321",
+    "available": true
+  },
+  "3": {
+    "title": "Machine Learning",
+    "author": "Bob Wilson",
+    "isbn": "978-0456789123",
+    "available": true
+  }
+}
